@@ -2,4 +2,4 @@
 
 Wafi Pandega
 
-Menambahkan fitur Login
+Menambahkan feature Login
