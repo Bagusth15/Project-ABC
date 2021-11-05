@@ -9,7 +9,7 @@ Menambahkan fitur login
 name fachri
 menambahkan fitur login
 Bagus Tri Harjanto
-FAJRI GANTENG
+FAJRI GANTENG BANGET
 Menambahkan fitur login
 Moh. Syahrul Aziz Imastara
 Fitur login nih
@@ -19,3 +19,5 @@ rino
 Menambahkan fitur login
 Wafi Pandega
 Menambahkan feature Login
+Walid Nurudin
+Menambahkan fitur login
